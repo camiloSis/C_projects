@@ -1,0 +1,3 @@
+/home/camiloasd/Documentos/VS/PROYECTOC++/physics/Runge_Kutta/build/CMakeFiles/orbita.dir
+/home/camiloasd/Documentos/VS/PROYECTOC++/physics/Runge_Kutta/build/CMakeFiles/edit_cache.dir
+/home/camiloasd/Documentos/VS/PROYECTOC++/physics/Runge_Kutta/build/CMakeFiles/rebuild_cache.dir
